@@ -10,3 +10,8 @@ Data Cleaning
 
 
 Мои услуги: "Автоматический сбор данных с каталогов, досок объявлений", "Очистка и структурирование данных (Excel/CSV/JSON)".
+
+
+Ссылки на мой профиль:
+FL.RU: https://www.fl.ru/users/carenkonikita6/portfolio/
+
