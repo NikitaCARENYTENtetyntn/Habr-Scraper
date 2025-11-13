@@ -17,7 +17,7 @@ Python 3.x, Requests, BeautifulSoup, Pandas (для экспорта).
 <img width="1376" height="583" alt="image" src="https://github.com/user-attachments/assets/c7dbc2ae-c017-4eb8-8a83-2aee8ca74944" />
 
 
-7. Инструкция по запуску:
+6. Инструкция по запуску:
 1) Клонируйте репозиторий: https://github.com/NikitaCARENYTENtetyntn/Habr-Scraper.git
 2) Установите все зависимости: pip install -r requirements.txt
 3) Запустите скрипт: python headers.py 
