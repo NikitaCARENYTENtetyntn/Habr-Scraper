@@ -13,8 +13,10 @@ Python 3.x, Requests, BeautifulSoup, Pandas (для экспорта).
 2) Обход защиты: Используется ротация заголовков User-Agent.
 3) Чистый экспорт: Данные экспортируются в структурированный DataFrame и .xlsx файл.
 
+
 5. Результат:
 <img width="1376" height="583" alt="image" src="https://github.com/user-attachments/assets/c7dbc2ae-c017-4eb8-8a83-2aee8ca74944" />
+
 
 7. Инструкция по запуску:
 1) Клонируйте репозиторий: https://github.com/NikitaCARENYTENtetyntn/Habr-Scraper.git
